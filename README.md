@@ -5,13 +5,13 @@ The dataset contains 15,593 entries with 11 columns related to water levels, dat
 # AnnualAverageWaterLevel: The average water level recorded for the year.
 # AnnualMaximumDailyWaterLevel: The highest daily water level recorded.
 # AnnualMaximumMomentWaterLevel: The highest momentary water level.
-AnnualMinimumDailyWaterLevel: The lowest daily water level.
-AnnualMinimumMomentWaterLevel: The lowest momentary water level.
-AnnualOccurredDateOfMaximumDailyWaterLevel: Date of the maximum daily water level.
-AnnualOccurredDateOfMinimumDailyWaterLevel: Date of the minimum daily water level.
-AnnualOccurredTimeOfMaximumMomentWaterLevel: Time of the maximum momentary water level.
-AnnualOccurredTimeOfMinimumMomentWaterLevel: Time of the minimum momentary water level.
-WellIdentifier: Identifies the well.
+# AnnualMinimumDailyWaterLevel: The lowest daily water level.
+# AnnualMinimumMomentWaterLevel: The lowest momentary water level.
+# AnnualOccurredDateOfMaximumDailyWaterLevel: Date of the maximum daily water level.
+# AnnualOccurredDateOfMinimumDailyWaterLevel: Date of the minimum daily water level.
+# AnnualOccurredTimeOfMaximumMomentWaterLevel: Time of the maximum momentary water level.
+# AnnualOccurredTimeOfMinimumMomentWaterLevel: Time of the minimum momentary water level.
+# WellIdentifier: Identifies the well.
 
 # the steps:
 
